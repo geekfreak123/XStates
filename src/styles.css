@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+select {
+  height: 30px;
+}
+span {
+  font-size: 28px;
+}
+.country {
+  color: grey;
+  font-size: 20px;
+}
+.main {
+  font-size: 20px;
+}
